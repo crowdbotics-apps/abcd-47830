@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-2fa](modules/2fa)
 - [react-native-user-profile](modules/user-profile)
 - [react-native-typeform-webhook](modules/typeform-webhook)
+- [react-native-splash](modules/splash)
 
 # Getting started: Frontend
 
